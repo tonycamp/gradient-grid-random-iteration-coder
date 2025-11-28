@@ -11,3 +11,5 @@ it grabs 6 to 6 grid for instances just first yuv pixel ...is s tored , do the a
 denotes the diference and tryies to random guess the difference on a number of iterations . im ussually using 20 000 000 iterantions but it can get less for more speed or more iterations to 30 000 000 in terms of memory limit for a bit more acurracy..
 then the guessed values do not need to be stored just a single 0 or 1 bit for yuv saying its higher than the grandient value or lower..
 and just store the random seed for the best guess of yuv.
+
+soo in a grid of 7x7 witch is 147 bytes only sotrs 4 bytes of random seed iteration the first byte of y and u and v like 7 bytes till now and a single bit of each up or down byte of yuv witch means can get to 13 bytes just the grid square of 147 with is a entrophy compression of 0.8 normally
