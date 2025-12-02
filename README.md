@@ -17,3 +17,6 @@ soo in a grid of 7x7 witch is 147 bytes only stores 4 bytes of random seed itera
 just the grid square of 147 bytes witch is a entrophy compression of 0.3 normally.
 can become very similar in size of webp and less. can become very good in size like jxl or less.
 i would if i was you do check out.
+
+
+at this moment with normal parameters i can figure out a good jpg quality and size alsoa s good as avif but the jxl andwebp do beat me a good way
