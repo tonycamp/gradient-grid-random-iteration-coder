@@ -19,4 +19,4 @@ can become very similar in size of webp and less. can become very good in size l
 i would if i was you do check out.
 
 
-at this moment with normal parameters i can figure out a good jpg quality and size alsoa s good as avif but the jxl andwebp do beat me a good way
+at this moment with normal parameters i can figure out as good as jpg quality or size als as good as avif but the jxl and webp do beat me a good way.
