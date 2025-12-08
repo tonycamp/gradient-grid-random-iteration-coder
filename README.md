@@ -7,3 +7,6 @@ the problem its you need to move some parameters to more quality and bigger size
 dat .lea files are compressed over emma lea compressor v0125
 there are there some examples with grid 10 and grid 7 and 2 million iterations and some divisors of 4 and 6 witch can get similar results to web and jxl
 but you know it will always be since its random a bit of grain still i need to remove.
+in the case of samplespace example my dat . lea file became just 24 kb less in half of those webp and jxl that its over 76 kb and the jpg its 4 times larger..
+the problem its still ... no grain to much gradient grid noticabel..
+to much grain no gradien squeres noticed but some grain we need to find the right iteratin numbers amount of seed of the image to be stable and the size good
