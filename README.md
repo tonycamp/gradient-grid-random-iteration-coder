@@ -1,6 +1,6 @@
 # gradient-grid-random-iteration-coder
 plain coder 
-use grid 1x10 
+use grid 10x10 
 use random range speed 16
 use wavelet speed of 16
 
