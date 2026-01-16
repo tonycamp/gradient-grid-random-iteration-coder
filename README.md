@@ -1,12 +1,9 @@
 # gradient-grid-random-iteration-coder
-plain coder 
-use grid 10x10 
-use random range speed 16
-use wavelet speed of 16
+use grid 12x12 
+use 20000 iterations
+use tolerance y = 9 u = 16 v = 16
+use divisor y = 3 u = 6 = 6
+you get a png made like sample2
+and the lea size its similar to webp
+quality still not as 90 quality of webp
 
-wait 5 hours one thread on a jpg image of 1024x717px like amostra 3 .jpg
-and you can compress the dat file over just 220Kb
-like webp or jxl of 90% quality
-even better than jpg or avif
-the tweaks over the non good pixels will be done...
-source in bmx blitz max ng 146
