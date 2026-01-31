@@ -1,26 +1,16 @@
 # gradient-grid-random-iteration-coder
-use grid xy of 16 or 24 or 32 or 48 and
-use 30000 iterations
-and speed range of 40 or 30 and speed of wavelet to 60
-use divisor y = 10 u = 9 v = 9
-you get a png made like the samples
-over just 30 mins
-and the lea size its similar to webp or jxl or at least avif
-quality still a bit less than 90 quality of webp.
+i have done the mosaic coder experimental...
+i will have to implement few more tries until the grid 16 speed 200 iterations 20000 y divisor 6 and u divisor 14 and v divisor 14 can be good image no much mosaic
+or grid denotacible...
+with this values you can get a dat file that after good compressors of lossless data like cmix or emma lea can acheive similar sizes like a webp file or a jxl file in quality 90
+its a better size than jpg or avif 90 unfortunutlly when you check the remade png file
+you see a bit of mosaic the bigger it gets the divisors...
+if you wish to test in images of yours and tweak a bit the vaoues of speed for instances to less and the values of iteratios for more and the divisors can become like y 4 or u 8 and v 8
+you get good quality image and resanable compressable dat file but the lower the speed values the hours it takes to compress and even more iterations you do get like 7 hours for a just 1028x768 file to compress you can use of original a jpg a bmp a tga or a png but its lossy compression ok...
 
-the other version its more stable the mosaic coder 2 . 7z comes with high performace in grid 16 plain speed 20 range speed 40 wavelet speed 80 and divisors of 4 and 6 you can get in just one hours
-similar results of enthrophy to avif jxl and webp prob if you use instead of lea use cmix and you can see the mosica quality almost unoticable on low divisors 2 4 5 not more...
-you must tweack a lot the values until you find results that can be used to be good as archiver of files by not lossing the photo too much quality maintain like the most quality possible and get the size similar to webp ,.. taht its still not achevalbe its close but no cigar..
-soo more tries will be needed into the coder before im pleased with te coder and do the decoder...
+its on github
 
-that is why i do not go to try to do the decoder inbmx right now...
+you may think the zip file contains the source yes it does... but its not py or c its bmx (blitz max ng basic 146) -- ok do not ask me why ... im never a good coder or a good photographer or even a good graphic designer am a try out of the 3 of it.
 
-feel free to try to chage de code and see if you can tewak a bit better entrhopy results and quality results in order for this coder to be a good archiver even if it takes like 3 hours to compress a 1920x1080 image...
-
-it can become good for storage format instead of webp.
-
-and if its tewaked a lot it can go for higher values than webp of 16384x16384 pixels but thats a further try
-
-
-but feel free to probe in github good coder.zip and mosaic coder 2 7z
+updates of 30 jan 2026
 
