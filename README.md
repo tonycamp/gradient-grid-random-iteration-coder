@@ -10,7 +10,7 @@ you get good quality image and resanable compressable dat file but the lower the
 
 its on github
 
-you may think the zip file contains the source yes it does... but its not py or c its bmx (blitz max ng basic 146) -- ok do not ask me why ... im never a good coder or a good photographer or even a good graphic designer am a try out of the 3 of it.
+you may think the 7z file contains the source, yes it does... but its not py or c its bmx (blitz max ng basic 146) -- ok do not ask me why ... im never a good coder or a good photographer or even a good graphic designer am a try out of the 3 of it.
 
 updates of 30 jan 2026
 
