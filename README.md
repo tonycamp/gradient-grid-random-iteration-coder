@@ -14,3 +14,6 @@ you may think the 7z file contains the source, yes it does... but its not py or 
 
 updates of 30 jan 2026
 
+in case you need speed you can just use iterations 1000 and limit 70 the grid 16 and yuv like 7 you get the results like the sample 1
+i mean jpg 120 avif 90 webp 60 jxl 67 cmix 50 and lea 52 quality of png its still to be considered as 90 .. but its not like 90 since its got a bit of mosaic
+
