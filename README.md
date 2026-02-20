@@ -6,4 +6,4 @@ use at your on purpouse and risk if you collapse the program in the middle of so
 THE DIFFERENCE FROM NZ AND ZPAQ ITS THAT ZPAQ ITS FIXED NO REALLOCATE THE Z.JPG OR WILL NOT REMADE THE FILES
 AND THE NZ ITS 4X FASTER 5 PER CENT LESS COMPRESSION AND YOU MAY REALLOCATE THE Z.JPG TO ANY FOLDER AND WILL DECOMPRESS TO THE FOLDER WHERE THE Z.JPG FILE IS IN ... THE REMADE.JPG WILL BE THERE
 
-tech its this .. you have a photo that you dont need max photo detail you can put to webp 60 quality or jxl 60 quality or avif 60 quality or even z.jpg quaity 40 hi def off or hi color off and you get a 3500x2800x24 photo over just 240kb
+tech its this .. you have a photo that you dont need max photo detail you can put to webp 60 quality or jxl 60 quality or avif 60 quality into z.jpg quailty of 0 / hi def on  / an hi color off  / and you get a 3500x2800x24 photo over just the 56 percent of size of webp same visual quality
