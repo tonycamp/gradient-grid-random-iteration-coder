@@ -1,9 +1,9 @@
 # gradient-grid-random-iteration-coder
-SKY SODDY GRADIENT IMAGE CRUCHER V9.0 started in 2015 ZPAQ AND NZ
-developments to be done / some sources in RAR too bmx 1.50.../ version 9.0 / compresses a file of image to similar lossy size of webp / decompression avaliable /image to z.jpg compresses a image file to a z.jpg storage format similiar quality and size of webp
- / z.jpg to image decompresses a z.jpg file in storage format to a rebuild remade file of jpg / folder to z.jpg reads all images in folder and sub folders and compresses like batch with multithreads all the files images formats to z.jpg / z.jpg to folder analises all the z.jpg files in folder and sub folders and builds remade jpgs out of all of them / >>>the movie buttons do not work still<<< / the enter key after putting quality number need to be used.. / the exit button its like a x on the windows top 3 buttons / 
-use at your on purpouse and risk if you collapse the program in the middle of something > some trashy temp files on the folder will not be deleted.
-THE DIFFERENCE FROM NZ AND ZPAQ ITS THAT ZPAQ ITS FIXED NO REALLOCATE THE Z.JPG OR WILL NOT REMADE THE FILES
-AND THE NZ ITS 4X FASTER 5 PER CENT LESS COMPRESSION AND YOU MAY REALLOCATE THE Z.JPG TO ANY FOLDER AND WILL DECOMPRESS TO THE FOLDER WHERE THE Z.JPG FILE IS IN ... THE REMADE.JPG WILL BE THERE
-
-tech its this .. you have a photo that you dont need max photo detail you can put to webp 60 quality or jxl 60 quality or avif 60 quality into z.jpg quailty of 0 / hi def on  / an hi color off  / and you get a 3500x2800x24 photo over just the 56 percent of size of webp same visual quality
+if you use tgatemp2015 with the tga and 0 1 0 you get like a very small temp file after compressed and 
+when decompressed the temp file and converted into tgatemp2015 back to tga you dont notice a eye difference
+if you use tgatemp... not the 2015 you can put quality from 90 to 10 and rebuild again to tga
+you can also use that temp highly compressed on a external nz 7z cmix paq8 compressor
+the temp files of 2015 and of 2026 are diferent...
+and the sources are just from 2026
+amanzingly the best done its the 2015 version more quality even in quality 0 1 0
+but do chen both for windows... cli
