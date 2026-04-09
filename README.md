@@ -14,3 +14,14 @@ the 69 quality of webp does not have more.. quality of 45 temp ...
 and the time to compress its like 1000x faster on webp.
 it still needs a bit of encoding in the pipeline of webp not jpg to see good results.
 do check sources and also try the tgatemp2015 cuae it still produces good image results o tga 0 1 0 parameters
+
+ON the Quality test .7z i used a 75 quality jpg
+turned into tga and to webp quality 60
+the temp file i got with quality 70
+and the jpg got 2Mb the webp 1Mb and the temp.lea compressed got just 890Kb
+it remains similar quality on a 3800x2500 px 24 bits no trasparent images all of them
+the size of a 70 quality temp.lea its less than webp 60 quality
+but webp 60 you get into 6 seconds
+and the temp.lea 70 you need 3600 seconds... over emma lea
+i mean you can use if you have time and small space for several photos.
+if its speed you need use webp.
